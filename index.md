@@ -5,4 +5,5 @@
 ##### This is Header h4
 ###### This is Header h6
 
-Change: Add header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Change: Add Image

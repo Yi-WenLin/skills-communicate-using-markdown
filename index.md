@@ -6,4 +6,9 @@
 ###### This is Header h6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-Change: Add Image
+
+```
+string myVar = "Hello, world!";
+```
+
+Change: Add Code
